@@ -1,0 +1,102 @@
+id	dep	nom_dep	reg	nom_region
+1	01	Ain	84	Auvergne-RhÃŽne-Alpes
+2	02	Aisne	32	Hauts-de-France
+3	03	Allier	84	Auvergne-RhÃŽne-Alpes
+4	04	Alpes-de-Haute-Provence	93	Provence-Alpes-CÃŽte d'Azur
+5	05	Hautes-Alpes	93	Provence-Alpes-CÃŽte d'Azur
+6	06	Alpes-Maritimes	93	Provence-Alpes-CÃŽte d'Azur
+7	07	ArdÃšche	84	Auvergne-RhÃŽne-Alpes
+8	08	Ardennes	44	Grand Est
+9	09	AriÃšge	76	Occitanie
+10	10	Aube	44	Grand Est
+11	11	Aude	76	Occitanie
+12	12	Aveyron	76	Occitanie
+13	13	Bouches-du-RhÃŽne	93	Provence-Alpes-CÃŽte d'Azur
+14	14	Calvados	28	Normandie
+15	15	Cantal	84	Auvergne-RhÃŽne-Alpes
+16	16	Charente	75	Nouvelle-Aquitaine
+17	17	Charente-Maritime	75	Nouvelle-Aquitaine
+18	18	Cher	24	Centre-Val de Loire
+19	19	CorrÃšze	75	Nouvelle-Aquitaine
+20	21	CÃŽte-d'Or	27	Bourgogne-Franche-ComtÃ©
+21	22	CÃŽtes-d'Armor	53	Bretagne
+22	23	Creuse	75	Nouvelle-Aquitaine
+23	24	Dordogne	75	Nouvelle-Aquitaine
+24	25	Doubs	27	Bourgogne-Franche-ComtÃ©
+25	26	DrÃŽme	84	Auvergne-RhÃŽne-Alpes
+26	27	Eure	28	Normandie
+27	28	Eure-et-Loir	24	Centre-Val de Loire
+28	29	FinistÃšre	53	Bretagne
+29	2A	Corse-du-Sud	94	Corse
+30	2B	Haute-Corse	94	Corse
+31	30	Gard	76	Occitanie
+32	31	Haute-Garonne	76	Occitanie
+33	32	Gers	76	Occitanie
+34	33	Gironde	75	Nouvelle-Aquitaine
+35	34	HÃ©rault	76	Occitanie
+36	35	Ille-et-Vilaine	53	Bretagne
+37	36	Indre	24	Centre-Val de Loire
+38	37	Indre-et-Loire	24	Centre-Val de Loire
+39	38	IsÃšre	84	Auvergne-RhÃŽne-Alpes
+40	39	Jura	27	Bourgogne-Franche-ComtÃ©
+41	40	Landes	75	Nouvelle-Aquitaine
+42	41	Loir-et-Cher	24	Centre-Val de Loire
+43	42	Loire	84	Auvergne-RhÃŽne-Alpes
+44	43	Haute-Loire	84	Auvergne-RhÃŽne-Alpes
+45	44	Loire-Atlantique	52	Pays de la Loire
+46	45	Loiret	24	Centre-Val de Loire
+47	46	Lot	76	Occitanie
+48	47	Lot-et-Garonne	75	Nouvelle-Aquitaine
+49	48	LozÃšre	76	Occitanie
+50	49	Maine-et-Loire	52	Pays de la Loire
+51	50	Manche	28	Normandie
+52	51	Marne	44	Grand Est
+53	52	Haute-Marne	44	Grand Est
+54	53	Mayenne	52	Pays de la Loire
+55	54	Meurthe-et-Moselle	44	Grand Est
+56	55	Meuse	44	Grand Est
+57	56	Morbihan	53	Bretagne
+58	57	Moselle	44	Grand Est
+59	58	NiÃšvre	27	Bourgogne-Franche-ComtÃ©
+60	59	Nord	32	Hauts-de-France
+61	60	Oise	32	Hauts-de-France
+62	61	Orne	28	Normandie
+63	62	Pas-de-Calais	32	Hauts-de-France
+64	63	Puy-de-DÃŽme	84	Auvergne-RhÃŽne-Alpes
+65	64	PyrÃ©nÃ©es-Atlantiques	75	Nouvelle-Aquitaine
+66	65	Hautes-PyrÃ©nÃ©es	76	Occitanie
+67	66	PyrÃ©nÃ©es-Orientales	76	Occitanie
+68	67	Bas-Rhin	44	Grand Est
+69	68	Haut-Rhin	44	Grand Est
+70	69	RhÃŽne	84	Auvergne-RhÃŽne-Alpes
+71	70	Haute-SaÃŽne	27	Bourgogne-Franche-ComtÃ©
+72	71	SaÃŽne-et-Loire	27	Bourgogne-Franche-ComtÃ©
+73	72	Sarthe	52	Pays de la Loire
+74	73	Savoie	84	Auvergne-RhÃŽne-Alpes
+75	74	Haute-Savoie	84	Auvergne-RhÃŽne-Alpes
+76	75	Paris	11	Ã?le-de-France
+77	76	Seine-Maritime	28	Normandie
+78	77	Seine-et-Marne	11	Ã?le-de-France
+79	78	Yvelines	11	Ã?le-de-France
+80	79	Deux-SÃšvres	75	Nouvelle-Aquitaine
+81	80	Somme	32	Hauts-de-France
+82	81	Tarn	76	Occitanie
+83	82	Tarn-et-Garonne	76	Occitanie
+84	83	Var	93	Provence-Alpes-CÃŽte d'Azur
+85	84	Vaucluse	93	Provence-Alpes-CÃŽte d'Azur
+86	85	VendÃ©e	52	Pays de la Loire
+87	86	Vienne	75	Nouvelle-Aquitaine
+88	87	Haute-Vienne	75	Nouvelle-Aquitaine
+89	88	Vosges	44	Grand Est
+90	89	Yonne	27	Bourgogne-Franche-ComtÃ©
+91	90	Territoire de Belfort	27	Bourgogne-Franche-ComtÃ©
+92	91	Essonne	11	Ã?le-de-France
+93	92	Hauts-de-Seine	11	Ã?le-de-France
+94	93	Seine-Saint-Denis	11	Ã?le-de-France
+95	94	Val-de-Marne	11	Ã?le-de-France
+96	95	Val-d'Oise	11	Ã?le-de-France
+97	971	Guadeloupe	1	Guadeloupe
+98	972	Martinique	2	Martinique
+99	973	Guyane	3	Guyane
+100	974	La RÃ©union	4	La RÃ©union
+101	976	Mayotte	6	Mayotte
