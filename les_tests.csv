@@ -1,4 +1,4 @@
-id	dep	jour	code_tranche	nb_test	nb_positif	nb_test_h	nb_posit_h	nb_test_f	nb_posit_f
+Id	dep	jour	code_tranche	nb_test	nb_positif	nb_test_h	nb_posit_h	nb_test_f	nb_posit_f
 1	01	2020-01-10	0	0	0	0	0	0	0
 2	01	2020-01-10	A	0	0	0	0	0	0
 3	01	2020-01-10	B	0	0	0	0	0	0
