@@ -1,4 +1,4 @@
-Id	code_region	age	jour	hospit	rea	recovered	deaths
+id	code_region	age	jour	hospit	rea	recovered	deaths
 1	01	0	2020-03-18	0	0	0	0
 2	01	09	2020-03-18	0	0	0	0
 3	01	19	2020-03-18	0	0	0	0
